@@ -10,76 +10,46 @@
 
 🌱 *I’m currently learning* -> ***Data Science* and *Generative AI.***
 
-🤝 *What I'm Up To* -> ***I love to colllaborate on projects that use AI/ML to develop innovative solutions with a positive societal impact.***
+🤝 *What I'm Up To* -> ***Collaborate on AI/ML projects to drive impactful solutions.***
 
 💬 *Let's Talk About* -> ***AI*, *ML*, *Deep Learning*, *Computer Vision*, or *Natural Language Processing.***
 
-📫 *Reach me* -> ***via *LinkedIn* for collaborations, discussions, or networking opportunities.***
+📫 *Reach me* -> ***via *[LinkedIn](https://www.linkedin.com/in/nidaislam10/)* for collaborations, discussions, or networking opportunities.***
 
 👨‍💻 *My projects are available on* -> *[GitHub](GitHub)*
 
 ---
 
   
-### ⚙️ **Languages and Tools**
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <!-- Python -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  
-  <!-- PyTorch -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  
-  <!-- TensorFlow -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  
-  <!-- Scikit-learn -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  
-  <!-- OpenCV -->
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-
-  <!-- NumPy -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  
-  <!-- Pandas -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  
-  <!-- Matplotlib -->
-  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" alt="Matplotlib" width="40" height="40"/>
-  
-  <!-- Seaborn -->
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-
-  <!-- FastAPI -->
-  <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" width="40" height="40"/>
-  
-  <!-- Hugging Face -->
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/>
-
-  <!-- AWS -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/>
-  
-  <!-- MySQL -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  
-  <!-- Git -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  
-  <!-- React -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  
-  <!-- Postman -->
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  
-  <!-- C++ -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  
-  <!-- HTML -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  
-  <!-- CSS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-</p>
+### 💻 Technologies I Work With:
+<!-- Core Libraries for Data Science -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-0C55A5?style=for-the-badge&logo=seaborn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-4A90E2?style=for-the-badge&logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
 
@@ -87,22 +57,13 @@
 
 
 ### 📊 **GitHub Stats**
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nidaislam&show_icons=true&locale=en" alt="nidaislam" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nidaislam&" alt="nidaislam" width="50%" />
-</p>
-
-### 🔥 **Most Used Languages**
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nidaislam&show_icons=true&locale=en&layout=compact" alt="nidaislam" />
-</p>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=nidaislam&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="nidaislam" width="47%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nidaislam&theme=gruvbox&hide_border=false" alt="nidaislam" width="50%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidaislam&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="nidaislam" /> </p>
 
 
 
 <h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nidaislam10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nidaislam" height="30" width="40" /></a>
-<a href="https://kaggle.com/nidaislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nidaislam" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nidaislam1141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nidaislam" height="30" width="40" /></a>
+<p align="center">
+<a href="https://linkedin.com/in/nidaislam10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nidaislam" height="40" width="40" /></a>
+<a href="https://kaggle.com/nidaislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nidaislam" height="40" width=40" /></a>
+<a href="https://www.hackerrank.com/nidaislam1141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nidaislam" height="50" width="50" /></a>
 </p>
-
