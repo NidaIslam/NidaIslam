@@ -60,10 +60,10 @@
 <p> <img src="https://github-readme-stats.vercel.app/api?username=nidaislam&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="nidaislam" width="47%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nidaislam&theme=gruvbox&hide_border=false" alt="nidaislam" width="50%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidaislam&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="nidaislam" /> </p>
 
 
-
 <h3 align="left">🔗 Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/nidaislam10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nidaislam" height="40" width="40" /></a>
-<a href="https://kaggle.com/nidaislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nidaislam" height="40" width=40" /></a>
-<a href="https://www.hackerrank.com/nidaislam1141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nidaislam" height="50" width="50" /></a>
+<p align="center">  
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nidaislam10) 
+[![LinkedIn](https://img.shields.io/badge/Kaggle-%230077B5.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/nidaislam)
+[![LinkedIn](https://img.shields.io/badge/HackerRank-%230077B5.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/nidaislam1141)
 </p>
